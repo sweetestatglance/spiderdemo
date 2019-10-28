@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="alex.com.martproduct.mapper.CategoryDao">
+
+    <!--<insert id="addcategory" parameterType="alex.com.entity.Category">
+        insert into alexcategory(alex_cid, alex_cname_ar, alex_cname_zh, hrefstr, alex_pid)
+        values(#{alex_cid}, #{alex_cname_ar}, #{alex_cname_zh}, #{hrefstr}, #{alex_pid})
+    </insert>-->
+
+
+
+</mapper>

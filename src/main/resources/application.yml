@@ -1,0 +1,28 @@
+#打印sql语句
+logging.level.org.springframework : WARN
+logging.level.com.cnct.mapper : DEBUG
+logging.file.name: logs/spring-boot-logging.log
+#logging.file : logs/spring-boot-logging.log
+
+file:
+  image-path: E:/carrimage
+server:
+  port: 8094
+spring:
+  resources: # 指定静态资源的路径
+        static-locations: classpath:/static/,classpath:/templates/,file:${file.image-path}
+  datasource:
+        #服务器数据库
+        url: jdbc:mysql:///dtodmartpro?useUnicode=true&characterEncoding=UTF-8&useSSL=false&serverTimezone=UTC&rewriteBatchedStatements=true
+        username: root
+        password: 1234
+        driver-class-name: com.mysql.jdbc.Driver
+        # 使用druid数据源
+        type: com.alibaba.druid.pool.DruidDataSource
+
+#mybatis配置
+mybatis.mapperLocations: classpath:mapper/*.xml
+mybatis.typeAliasesPackage: alex.com.martproduct.mapper
+mybatis.configuration.log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+#mybatis.configuration.cache-enabled: true
+

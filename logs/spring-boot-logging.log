@@ -1,0 +1,475 @@
+2019-10-24 10:46:12.083  INFO 3544 --- [main] alex.com.ProductspiderApplicationTests   : Starting ProductspiderApplicationTests on Tiffany with PID 3544 (started by Tiffany in E:\xycode\pachongdemo\productspider)
+2019-10-24 10:46:12.096  INFO 3544 --- [main] alex.com.ProductspiderApplicationTests   : No active profile set, falling back to default profiles: default
+2019-10-24 10:46:16.207  INFO 3544 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2019-10-24 10:46:16.754  INFO 3544 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2019-10-24 10:46:17.187  INFO 3544 --- [main] org.hibernate.Version                    : HHH000412: Hibernate Core {5.4.6.Final}
+2019-10-24 10:46:17.695  INFO 3544 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-10-24 10:46:18.924  INFO 3544 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2019-10-24 10:46:19.827  INFO 3544 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-10-24 10:46:22.162  WARN 3544 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-10-24 10:46:23.477  INFO 3544 --- [main] alex.com.ProductspiderApplicationTests   : Started ProductspiderApplicationTests in 12.552 seconds (JVM running for 15.686)
+2019-10-24 10:46:38.503  INFO 3544 --- [SpringContextShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2019-10-24 10:47:34.941  INFO 3004 --- [main] alex.com.ProductspiderApplicationTests   : Starting ProductspiderApplicationTests on Tiffany with PID 3004 (started by Tiffany in E:\xycode\pachongdemo\productspider)
+2019-10-24 10:47:34.943  INFO 3004 --- [main] alex.com.ProductspiderApplicationTests   : No active profile set, falling back to default profiles: default
+2019-10-24 10:47:36.910  INFO 3004 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2019-10-24 10:47:37.144  INFO 3004 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2019-10-24 10:47:37.206  INFO 3004 --- [main] org.hibernate.Version                    : HHH000412: Hibernate Core {5.4.6.Final}
+2019-10-24 10:47:37.343  INFO 3004 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-10-24 10:47:38.188  INFO 3004 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2019-10-24 10:47:38.391  INFO 3004 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-10-24 10:47:38.979  WARN 3004 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-10-24 10:47:39.746  INFO 3004 --- [main] alex.com.ProductspiderApplicationTests   : Started ProductspiderApplicationTests in 5.278 seconds (JVM running for 6.293)
+2019-10-24 10:47:43.299  INFO 3004 --- [SpringContextShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2019-10-24 10:48:46.489  INFO 2184 --- [main] alex.com.ProductspiderApplicationTests   : Starting ProductspiderApplicationTests on Tiffany with PID 2184 (started by Tiffany in E:\xycode\pachongdemo\productspider)
+2019-10-24 10:48:46.498  INFO 2184 --- [main] alex.com.ProductspiderApplicationTests   : No active profile set, falling back to default profiles: default
+2019-10-24 10:48:48.566  INFO 2184 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2019-10-24 10:48:48.822  INFO 2184 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2019-10-24 10:48:48.893  INFO 2184 --- [main] org.hibernate.Version                    : HHH000412: Hibernate Core {5.4.6.Final}
+2019-10-24 10:48:49.068  INFO 2184 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-10-24 10:48:49.950  INFO 2184 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2019-10-24 10:48:50.216  INFO 2184 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-10-24 10:48:50.926  WARN 2184 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-10-24 10:48:51.889  INFO 2184 --- [main] alex.com.ProductspiderApplicationTests   : Started ProductspiderApplicationTests in 5.971 seconds (JVM running for 7.301)
+2019-10-24 10:48:52.142  INFO 2184 --- [SpringContextShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2019-10-24 10:49:21.998  INFO 15880 --- [main] alex.com.ProductspiderApplicationTests   : Starting ProductspiderApplicationTests on Tiffany with PID 15880 (started by Tiffany in E:\xycode\pachongdemo\productspider)
+2019-10-24 10:49:22.001  INFO 15880 --- [main] alex.com.ProductspiderApplicationTests   : No active profile set, falling back to default profiles: default
+2019-10-24 10:49:23.999  INFO 15880 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2019-10-24 10:49:24.265  INFO 15880 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2019-10-24 10:49:24.330  INFO 15880 --- [main] org.hibernate.Version                    : HHH000412: Hibernate Core {5.4.6.Final}
+2019-10-24 10:49:24.483  INFO 15880 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-10-24 10:49:25.379  INFO 15880 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2019-10-24 10:49:25.629  INFO 15880 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-10-24 10:49:26.361  WARN 15880 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-10-24 10:49:27.354  INFO 15880 --- [main] alex.com.ProductspiderApplicationTests   : Started ProductspiderApplicationTests in 5.918 seconds (JVM running for 7.212)
+2019-10-24 10:49:27.630  INFO 15880 --- [SpringContextShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2019-10-24 10:55:03.021  INFO 17192 --- [main] alex.com.ProductspiderApplicationTests   : Starting ProductspiderApplicationTests on Tiffany with PID 17192 (started by Tiffany in E:\xycode\pachongdemo\productspider)
+2019-10-24 10:55:03.023  INFO 17192 --- [main] alex.com.ProductspiderApplicationTests   : No active profile set, falling back to default profiles: default
+2019-10-24 10:55:04.894  INFO 17192 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2019-10-24 10:55:05.145  INFO 17192 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2019-10-24 10:55:05.212  INFO 17192 --- [main] org.hibernate.Version                    : HHH000412: Hibernate Core {5.4.6.Final}
+2019-10-24 10:55:05.386  INFO 17192 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-10-24 10:55:06.408  INFO 17192 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2019-10-24 10:55:06.646  INFO 17192 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-10-24 10:55:07.352  WARN 17192 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-10-24 10:55:08.308  INFO 17192 --- [main] alex.com.ProductspiderApplicationTests   : Started ProductspiderApplicationTests in 5.979 seconds (JVM running for 7.356)
+2019-10-24 10:55:08.611  INFO 17192 --- [SpringContextShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2019-10-24 10:55:22.894  INFO 1816 --- [main] alex.com.ProductspiderApplicationTests   : Starting ProductspiderApplicationTests on Tiffany with PID 1816 (started by Tiffany in E:\xycode\pachongdemo\productspider)
+2019-10-24 10:55:22.896  INFO 1816 --- [main] alex.com.ProductspiderApplicationTests   : No active profile set, falling back to default profiles: default
+2019-10-24 10:55:24.938  INFO 1816 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2019-10-24 10:55:25.194  INFO 1816 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2019-10-24 10:55:25.261  INFO 1816 --- [main] org.hibernate.Version                    : HHH000412: Hibernate Core {5.4.6.Final}
+2019-10-24 10:55:25.411  INFO 1816 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-10-24 10:55:26.341  INFO 1816 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2019-10-24 10:55:26.605  INFO 1816 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-10-24 10:55:27.277  WARN 1816 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-10-24 10:55:28.292  INFO 1816 --- [main] alex.com.ProductspiderApplicationTests   : Started ProductspiderApplicationTests in 6.04 seconds (JVM running for 7.402)
+2019-10-24 10:55:44.158  INFO 1816 --- [SpringContextShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2019-10-24 11:51:58.421  INFO 7768 --- [main] alex.com.ProductspiderApplicationTests   : Starting ProductspiderApplicationTests on Tiffany with PID 7768 (started by Tiffany in E:\xycode\pachongdemo\productspider)
+2019-10-24 11:51:58.597  INFO 7768 --- [main] alex.com.ProductspiderApplicationTests   : No active profile set, falling back to default profiles: default
+2019-10-24 11:52:02.647  INFO 7768 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2019-10-24 11:52:03.133  INFO 7768 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2019-10-24 11:52:03.264  INFO 7768 --- [main] org.hibernate.Version                    : HHH000412: Hibernate Core {5.4.6.Final}
+2019-10-24 11:52:03.626  INFO 7768 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-10-24 11:52:04.616  INFO 7768 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2019-10-24 11:52:04.914  INFO 7768 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-10-24 11:52:05.853  WARN 7768 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-10-24 11:52:07.121  INFO 7768 --- [main] alex.com.ProductspiderApplicationTests   : Started ProductspiderApplicationTests in 11.034 seconds (JVM running for 13.443)
+2019-10-24 11:52:12.336  INFO 7768 --- [SpringContextShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2019-10-24 11:59:04.572  INFO 11548 --- [main] alex.com.ProductspiderApplicationTests   : Starting ProductspiderApplicationTests on Tiffany with PID 11548 (started by Tiffany in E:\xycode\pachongdemo\productspider)
+2019-10-24 11:59:04.574  INFO 11548 --- [main] alex.com.ProductspiderApplicationTests   : No active profile set, falling back to default profiles: default
+2019-10-24 11:59:06.850  INFO 11548 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2019-10-24 11:59:07.170  INFO 11548 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2019-10-24 11:59:07.237  INFO 11548 --- [main] org.hibernate.Version                    : HHH000412: Hibernate Core {5.4.6.Final}
+2019-10-24 11:59:07.392  INFO 11548 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-10-24 11:59:08.286  INFO 11548 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2019-10-24 11:59:08.551  INFO 11548 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-10-24 11:59:09.254  WARN 11548 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-10-24 11:59:10.255  INFO 11548 --- [main] alex.com.ProductspiderApplicationTests   : Started ProductspiderApplicationTests in 6.204 seconds (JVM running for 7.361)
+2019-10-24 12:01:57.160  INFO 7884 --- [main] alex.com.ProductspiderApplicationTests   : Starting ProductspiderApplicationTests on Tiffany with PID 7884 (started by Tiffany in E:\xycode\pachongdemo\productspider)
+2019-10-24 12:01:57.162  INFO 7884 --- [main] alex.com.ProductspiderApplicationTests   : No active profile set, falling back to default profiles: default
+2019-10-24 12:01:59.621  INFO 7884 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2019-10-24 12:01:59.879  INFO 7884 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2019-10-24 12:01:59.947  INFO 7884 --- [main] org.hibernate.Version                    : HHH000412: Hibernate Core {5.4.6.Final}
+2019-10-24 12:02:00.103  INFO 7884 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-10-24 12:02:01.013  INFO 7884 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2019-10-24 12:02:01.261  INFO 7884 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-10-24 12:02:02.003  WARN 7884 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-10-24 12:02:02.989  INFO 7884 --- [main] alex.com.ProductspiderApplicationTests   : Started ProductspiderApplicationTests in 6.361 seconds (JVM running for 7.543)
+2019-10-24 12:02:07.198  INFO 7884 --- [SpringContextShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2019-10-24 12:02:31.677  INFO 19648 --- [main] alex.com.ProductspiderApplicationTests   : Starting ProductspiderApplicationTests on Tiffany with PID 19648 (started by Tiffany in E:\xycode\pachongdemo\productspider)
+2019-10-24 12:02:31.679  INFO 19648 --- [main] alex.com.ProductspiderApplicationTests   : No active profile set, falling back to default profiles: default
+2019-10-24 12:02:33.717  INFO 19648 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2019-10-24 12:02:34.028  INFO 19648 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2019-10-24 12:02:34.098  INFO 19648 --- [main] org.hibernate.Version                    : HHH000412: Hibernate Core {5.4.6.Final}
+2019-10-24 12:02:34.240  INFO 19648 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-10-24 12:02:35.119  INFO 19648 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2019-10-24 12:02:35.358  INFO 19648 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-10-24 12:02:36.067  WARN 19648 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-10-24 12:02:36.938  INFO 19648 --- [main] alex.com.ProductspiderApplicationTests   : Started ProductspiderApplicationTests in 5.699 seconds (JVM running for 6.745)
+2019-10-24 12:02:40.676  INFO 19648 --- [SpringContextShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2019-10-24 12:02:51.203  INFO 8328 --- [main] alex.com.ProductspiderApplicationTests   : Starting ProductspiderApplicationTests on Tiffany with PID 8328 (started by Tiffany in E:\xycode\pachongdemo\productspider)
+2019-10-24 12:02:51.205  INFO 8328 --- [main] alex.com.ProductspiderApplicationTests   : No active profile set, falling back to default profiles: default
+2019-10-24 12:02:53.442  INFO 8328 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2019-10-24 12:02:53.791  INFO 8328 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2019-10-24 12:02:53.862  INFO 8328 --- [main] org.hibernate.Version                    : HHH000412: Hibernate Core {5.4.6.Final}
+2019-10-24 12:02:54.003  INFO 8328 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-10-24 12:02:54.915  INFO 8328 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2019-10-24 12:02:55.147  INFO 8328 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-10-24 12:02:55.940  WARN 8328 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-10-24 12:02:56.925  INFO 8328 --- [main] alex.com.ProductspiderApplicationTests   : Started ProductspiderApplicationTests in 6.33 seconds (JVM running for 7.646)
+2019-10-24 12:03:00.964  INFO 8328 --- [SpringContextShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2019-10-24 12:03:12.465  INFO 13284 --- [main] alex.com.ProductspiderApplicationTests   : Starting ProductspiderApplicationTests on Tiffany with PID 13284 (started by Tiffany in E:\xycode\pachongdemo\productspider)
+2019-10-24 12:03:12.467  INFO 13284 --- [main] alex.com.ProductspiderApplicationTests   : No active profile set, falling back to default profiles: default
+2019-10-24 12:03:14.936  INFO 13284 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2019-10-24 12:03:15.235  INFO 13284 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2019-10-24 12:03:15.301  INFO 13284 --- [main] org.hibernate.Version                    : HHH000412: Hibernate Core {5.4.6.Final}
+2019-10-24 12:03:15.466  INFO 13284 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-10-24 12:03:16.371  INFO 13284 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2019-10-24 12:03:16.640  INFO 13284 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-10-24 12:03:17.364  WARN 13284 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-10-24 12:03:18.384  INFO 13284 --- [main] alex.com.ProductspiderApplicationTests   : Started ProductspiderApplicationTests in 6.475 seconds (JVM running for 7.694)
+2019-10-24 12:03:21.606  INFO 13284 --- [SpringContextShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2019-10-24 12:03:32.828  INFO 2540 --- [main] alex.com.ProductspiderApplicationTests   : Starting ProductspiderApplicationTests on Tiffany with PID 2540 (started by Tiffany in E:\xycode\pachongdemo\productspider)
+2019-10-24 12:03:32.831  INFO 2540 --- [main] alex.com.ProductspiderApplicationTests   : No active profile set, falling back to default profiles: default
+2019-10-24 12:03:35.261  INFO 2540 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2019-10-24 12:03:35.536  INFO 2540 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2019-10-24 12:03:35.602  INFO 2540 --- [main] org.hibernate.Version                    : HHH000412: Hibernate Core {5.4.6.Final}
+2019-10-24 12:03:35.753  INFO 2540 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-10-24 12:03:36.646  INFO 2540 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2019-10-24 12:03:36.892  INFO 2540 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-10-24 12:03:37.583  WARN 2540 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-10-24 12:03:38.614  INFO 2540 --- [main] alex.com.ProductspiderApplicationTests   : Started ProductspiderApplicationTests in 6.406 seconds (JVM running for 7.68)
+2019-10-24 12:03:43.249  INFO 2540 --- [SpringContextShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2019-10-24 12:17:56.927  INFO 9100 --- [main] alex.com.ProductspiderApplicationTests   : Starting ProductspiderApplicationTests on Tiffany with PID 9100 (started by Tiffany in E:\xycode\pachongdemo\productspider)
+2019-10-24 12:17:56.929  INFO 9100 --- [main] alex.com.ProductspiderApplicationTests   : No active profile set, falling back to default profiles: default
+2019-10-24 12:17:59.000  INFO 9100 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2019-10-24 12:17:59.252  INFO 9100 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2019-10-24 12:17:59.319  INFO 9100 --- [main] org.hibernate.Version                    : HHH000412: Hibernate Core {5.4.6.Final}
+2019-10-24 12:17:59.478  INFO 9100 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-10-24 12:18:00.375  INFO 9100 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2019-10-24 12:18:00.652  INFO 9100 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-10-24 12:18:01.364  WARN 9100 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-10-24 12:18:02.316  INFO 9100 --- [main] alex.com.ProductspiderApplicationTests   : Started ProductspiderApplicationTests in 5.917 seconds (JVM running for 7.155)
+2019-10-24 12:20:02.672  INFO 20304 --- [main] alex.com.ProductspiderApplicationTests   : Starting ProductspiderApplicationTests on Tiffany with PID 20304 (started by Tiffany in E:\xycode\pachongdemo\productspider)
+2019-10-24 12:20:02.674  INFO 20304 --- [main] alex.com.ProductspiderApplicationTests   : No active profile set, falling back to default profiles: default
+2019-10-24 12:20:04.673  INFO 20304 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2019-10-24 12:20:04.934  INFO 20304 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2019-10-24 12:20:05.004  INFO 20304 --- [main] org.hibernate.Version                    : HHH000412: Hibernate Core {5.4.6.Final}
+2019-10-24 12:20:05.141  INFO 20304 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-10-24 12:20:05.982  INFO 20304 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2019-10-24 12:20:06.190  INFO 20304 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-10-24 12:20:06.765  WARN 20304 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-10-24 12:20:07.515  INFO 20304 --- [main] alex.com.ProductspiderApplicationTests   : Started ProductspiderApplicationTests in 5.254 seconds (JVM running for 6.186)
+2019-10-24 12:20:13.724  INFO 20304 --- [SpringContextShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2019-10-24 12:20:44.269  INFO 1536 --- [main] alex.com.ProductspiderApplicationTests   : Starting ProductspiderApplicationTests on Tiffany with PID 1536 (started by Tiffany in E:\xycode\pachongdemo\productspider)
+2019-10-24 12:20:44.271  INFO 1536 --- [main] alex.com.ProductspiderApplicationTests   : No active profile set, falling back to default profiles: default
+2019-10-24 12:20:46.211  INFO 1536 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2019-10-24 12:20:46.492  INFO 1536 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2019-10-24 12:20:46.561  INFO 1536 --- [main] org.hibernate.Version                    : HHH000412: Hibernate Core {5.4.6.Final}
+2019-10-24 12:20:46.702  INFO 1536 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-10-24 12:20:47.551  INFO 1536 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2019-10-24 12:20:47.748  INFO 1536 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-10-24 12:20:48.288  WARN 1536 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-10-24 12:20:49.037  INFO 1536 --- [main] alex.com.ProductspiderApplicationTests   : Started ProductspiderApplicationTests in 5.219 seconds (JVM running for 6.146)
+2019-10-24 12:20:51.968  INFO 1536 --- [SpringContextShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2019-10-24 12:21:50.126  INFO 5684 --- [main] alex.com.ProductspiderApplicationTests   : Starting ProductspiderApplicationTests on Tiffany with PID 5684 (started by Tiffany in E:\xycode\pachongdemo\productspider)
+2019-10-24 12:21:50.128  INFO 5684 --- [main] alex.com.ProductspiderApplicationTests   : No active profile set, falling back to default profiles: default
+2019-10-24 12:21:52.322  INFO 5684 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2019-10-24 12:21:52.560  INFO 5684 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2019-10-24 12:21:52.623  INFO 5684 --- [main] org.hibernate.Version                    : HHH000412: Hibernate Core {5.4.6.Final}
+2019-10-24 12:21:52.760  INFO 5684 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-10-24 12:21:53.622  INFO 5684 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2019-10-24 12:21:53.821  INFO 5684 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-10-24 12:21:54.395  WARN 5684 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-10-24 12:21:55.161  INFO 5684 --- [main] alex.com.ProductspiderApplicationTests   : Started ProductspiderApplicationTests in 5.455 seconds (JVM running for 6.506)
+2019-10-24 12:21:58.372  INFO 5684 --- [SpringContextShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2019-10-24 12:24:16.619  INFO 1796 --- [main] alex.com.ProductspiderApplicationTests   : Starting ProductspiderApplicationTests on Tiffany with PID 1796 (started by Tiffany in E:\xycode\pachongdemo\productspider)
+2019-10-24 12:24:16.621  INFO 1796 --- [main] alex.com.ProductspiderApplicationTests   : No active profile set, falling back to default profiles: default
+2019-10-24 12:24:18.612  INFO 1796 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2019-10-24 12:24:18.879  INFO 1796 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2019-10-24 12:24:18.940  INFO 1796 --- [main] org.hibernate.Version                    : HHH000412: Hibernate Core {5.4.6.Final}
+2019-10-24 12:24:19.078  INFO 1796 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-10-24 12:24:19.929  INFO 1796 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2019-10-24 12:24:20.130  INFO 1796 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-10-24 12:24:20.728  WARN 1796 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-10-24 12:24:21.454  INFO 1796 --- [main] alex.com.ProductspiderApplicationTests   : Started ProductspiderApplicationTests in 5.247 seconds (JVM running for 6.121)
+2019-10-24 12:24:24.791  INFO 1796 --- [SpringContextShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2019-10-24 12:24:44.412  INFO 6840 --- [main] alex.com.ProductspiderApplicationTests   : Starting ProductspiderApplicationTests on Tiffany with PID 6840 (started by Tiffany in E:\xycode\pachongdemo\productspider)
+2019-10-24 12:24:44.414  INFO 6840 --- [main] alex.com.ProductspiderApplicationTests   : No active profile set, falling back to default profiles: default
+2019-10-24 12:24:46.771  INFO 6840 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2019-10-24 12:24:47.031  INFO 6840 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2019-10-24 12:24:47.104  INFO 6840 --- [main] org.hibernate.Version                    : HHH000412: Hibernate Core {5.4.6.Final}
+2019-10-24 12:24:47.260  INFO 6840 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-10-24 12:24:48.277  INFO 6840 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2019-10-24 12:24:48.521  INFO 6840 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-10-24 12:24:49.147  WARN 6840 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-10-24 12:24:49.961  INFO 6840 --- [main] alex.com.ProductspiderApplicationTests   : Started ProductspiderApplicationTests in 6.028 seconds (JVM running for 7.027)
+2019-10-24 12:24:52.856  INFO 6840 --- [SpringContextShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2019-10-24 12:26:15.393  INFO 13908 --- [main] alex.com.ProductspiderApplicationTests   : Starting ProductspiderApplicationTests on Tiffany with PID 13908 (started by Tiffany in E:\xycode\pachongdemo\productspider)
+2019-10-24 12:26:15.395  INFO 13908 --- [main] alex.com.ProductspiderApplicationTests   : No active profile set, falling back to default profiles: default
+2019-10-24 12:26:17.281  INFO 13908 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2019-10-24 12:26:17.518  INFO 13908 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2019-10-24 12:26:17.587  INFO 13908 --- [main] org.hibernate.Version                    : HHH000412: Hibernate Core {5.4.6.Final}
+2019-10-24 12:26:17.724  INFO 13908 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-10-24 12:26:18.573  INFO 13908 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2019-10-24 12:26:18.777  INFO 13908 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-10-24 12:26:19.358  WARN 13908 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-10-24 12:26:20.107  INFO 13908 --- [main] alex.com.ProductspiderApplicationTests   : Started ProductspiderApplicationTests in 5.162 seconds (JVM running for 6.116)
+2019-10-24 12:26:36.439  INFO 13908 --- [SpringContextShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2019-10-24 12:26:53.139  INFO 11256 --- [main] alex.com.ProductspiderApplicationTests   : Starting ProductspiderApplicationTests on Tiffany with PID 11256 (started by Tiffany in E:\xycode\pachongdemo\productspider)
+2019-10-24 12:26:53.142  INFO 11256 --- [main] alex.com.ProductspiderApplicationTests   : No active profile set, falling back to default profiles: default
+2019-10-24 12:26:55.106  INFO 11256 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2019-10-24 12:26:55.364  INFO 11256 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2019-10-24 12:26:55.427  INFO 11256 --- [main] org.hibernate.Version                    : HHH000412: Hibernate Core {5.4.6.Final}
+2019-10-24 12:26:55.561  INFO 11256 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-10-24 12:26:56.407  INFO 11256 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2019-10-24 12:26:56.618  INFO 11256 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-10-24 12:26:57.206  WARN 11256 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-10-24 12:26:57.973  INFO 11256 --- [main] alex.com.ProductspiderApplicationTests   : Started ProductspiderApplicationTests in 5.288 seconds (JVM running for 6.235)
+2019-10-24 12:27:07.228  INFO 11256 --- [SpringContextShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2019-10-24 12:27:39.607  INFO 1520 --- [main] alex.com.ProductspiderApplicationTests   : Starting ProductspiderApplicationTests on Tiffany with PID 1520 (started by Tiffany in E:\xycode\pachongdemo\productspider)
+2019-10-24 12:27:39.609  INFO 1520 --- [main] alex.com.ProductspiderApplicationTests   : No active profile set, falling back to default profiles: default
+2019-10-24 12:27:41.703  INFO 1520 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2019-10-24 12:27:42.032  INFO 1520 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2019-10-24 12:27:42.097  INFO 1520 --- [main] org.hibernate.Version                    : HHH000412: Hibernate Core {5.4.6.Final}
+2019-10-24 12:27:42.237  INFO 1520 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-10-24 12:27:43.087  INFO 1520 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2019-10-24 12:27:43.294  INFO 1520 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-10-24 12:27:43.897  WARN 1520 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-10-24 12:27:44.685  INFO 1520 --- [main] alex.com.ProductspiderApplicationTests   : Started ProductspiderApplicationTests in 5.495 seconds (JVM running for 6.503)
+2019-10-24 12:27:47.486  INFO 1520 --- [SpringContextShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2019-10-24 12:28:02.027  INFO 18040 --- [main] alex.com.ProductspiderApplicationTests   : Starting ProductspiderApplicationTests on Tiffany with PID 18040 (started by Tiffany in E:\xycode\pachongdemo\productspider)
+2019-10-24 12:28:02.028  INFO 18040 --- [main] alex.com.ProductspiderApplicationTests   : No active profile set, falling back to default profiles: default
+2019-10-24 12:28:04.205  INFO 18040 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2019-10-24 12:28:04.470  INFO 18040 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2019-10-24 12:28:04.537  INFO 18040 --- [main] org.hibernate.Version                    : HHH000412: Hibernate Core {5.4.6.Final}
+2019-10-24 12:28:04.690  INFO 18040 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-10-24 12:28:05.557  INFO 18040 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2019-10-24 12:28:05.770  INFO 18040 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-10-24 12:28:06.345  WARN 18040 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-10-24 12:28:07.134  INFO 18040 --- [main] alex.com.ProductspiderApplicationTests   : Started ProductspiderApplicationTests in 5.546 seconds (JVM running for 6.566)
+2019-10-24 12:28:11.548  INFO 18040 --- [SpringContextShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2019-10-24 12:28:26.413  INFO 10692 --- [main] alex.com.ProductspiderApplicationTests   : Starting ProductspiderApplicationTests on Tiffany with PID 10692 (started by Tiffany in E:\xycode\pachongdemo\productspider)
+2019-10-24 12:28:26.414  INFO 10692 --- [main] alex.com.ProductspiderApplicationTests   : No active profile set, falling back to default profiles: default
+2019-10-24 12:28:28.417  INFO 10692 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2019-10-24 12:28:28.651  INFO 10692 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2019-10-24 12:28:28.715  INFO 10692 --- [main] org.hibernate.Version                    : HHH000412: Hibernate Core {5.4.6.Final}
+2019-10-24 12:28:28.855  INFO 10692 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-10-24 12:28:29.727  INFO 10692 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2019-10-24 12:28:29.972  INFO 10692 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-10-24 12:28:30.591  WARN 10692 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-10-24 12:28:31.404  INFO 10692 --- [main] alex.com.ProductspiderApplicationTests   : Started ProductspiderApplicationTests in 5.413 seconds (JVM running for 6.408)
+2019-10-24 12:28:34.480  INFO 10692 --- [SpringContextShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2019-10-24 12:28:48.459  INFO 15184 --- [main] alex.com.ProductspiderApplicationTests   : Starting ProductspiderApplicationTests on Tiffany with PID 15184 (started by Tiffany in E:\xycode\pachongdemo\productspider)
+2019-10-24 12:28:48.461  INFO 15184 --- [main] alex.com.ProductspiderApplicationTests   : No active profile set, falling back to default profiles: default
+2019-10-24 12:28:50.444  INFO 15184 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2019-10-24 12:28:50.668  INFO 15184 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2019-10-24 12:28:50.732  INFO 15184 --- [main] org.hibernate.Version                    : HHH000412: Hibernate Core {5.4.6.Final}
+2019-10-24 12:28:50.870  INFO 15184 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-10-24 12:28:51.750  INFO 15184 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2019-10-24 12:28:51.955  INFO 15184 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-10-24 12:28:52.553  WARN 15184 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-10-24 12:28:53.284  INFO 15184 --- [main] alex.com.ProductspiderApplicationTests   : Started ProductspiderApplicationTests in 5.242 seconds (JVM running for 6.21)
+2019-10-24 12:28:58.738  INFO 15184 --- [SpringContextShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2019-10-24 12:29:22.999  INFO 15780 --- [main] alex.com.ProductspiderApplicationTests   : Starting ProductspiderApplicationTests on Tiffany with PID 15780 (started by Tiffany in E:\xycode\pachongdemo\productspider)
+2019-10-24 12:29:23.001  INFO 15780 --- [main] alex.com.ProductspiderApplicationTests   : No active profile set, falling back to default profiles: default
+2019-10-24 12:29:24.882  INFO 15780 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2019-10-24 12:29:25.127  INFO 15780 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2019-10-24 12:29:25.190  INFO 15780 --- [main] org.hibernate.Version                    : HHH000412: Hibernate Core {5.4.6.Final}
+2019-10-24 12:29:25.330  INFO 15780 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-10-24 12:29:26.182  INFO 15780 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2019-10-24 12:29:26.383  INFO 15780 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-10-24 12:29:26.957  WARN 15780 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-10-24 12:29:27.766  INFO 15780 --- [main] alex.com.ProductspiderApplicationTests   : Started ProductspiderApplicationTests in 5.214 seconds (JVM running for 6.133)
+2019-10-24 12:29:30.435  INFO 15780 --- [SpringContextShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2019-10-24 12:31:07.026  INFO 11820 --- [main] alex.com.ProductspiderApplicationTests   : Starting ProductspiderApplicationTests on Tiffany with PID 11820 (started by Tiffany in E:\xycode\pachongdemo\productspider)
+2019-10-24 12:31:07.028  INFO 11820 --- [main] alex.com.ProductspiderApplicationTests   : No active profile set, falling back to default profiles: default
+2019-10-24 12:31:08.976  INFO 11820 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2019-10-24 12:31:09.199  INFO 11820 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2019-10-24 12:31:09.262  INFO 11820 --- [main] org.hibernate.Version                    : HHH000412: Hibernate Core {5.4.6.Final}
+2019-10-24 12:31:09.398  INFO 11820 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-10-24 12:31:10.248  INFO 11820 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2019-10-24 12:31:10.445  INFO 11820 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-10-24 12:31:11.019  WARN 11820 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-10-24 12:31:11.766  INFO 11820 --- [main] alex.com.ProductspiderApplicationTests   : Started ProductspiderApplicationTests in 5.157 seconds (JVM running for 6.112)
+2019-10-24 12:31:18.883  INFO 11820 --- [SpringContextShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2019-10-24 12:31:59.122  INFO 17544 --- [main] alex.com.ProductspiderApplicationTests   : Starting ProductspiderApplicationTests on Tiffany with PID 17544 (started by Tiffany in E:\xycode\pachongdemo\productspider)
+2019-10-24 12:31:59.124  INFO 17544 --- [main] alex.com.ProductspiderApplicationTests   : No active profile set, falling back to default profiles: default
+2019-10-24 12:32:01.029  INFO 17544 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2019-10-24 12:32:01.277  INFO 17544 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2019-10-24 12:32:01.341  INFO 17544 --- [main] org.hibernate.Version                    : HHH000412: Hibernate Core {5.4.6.Final}
+2019-10-24 12:32:01.475  INFO 17544 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-10-24 12:32:02.324  INFO 17544 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2019-10-24 12:32:02.543  INFO 17544 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-10-24 12:32:03.090  WARN 17544 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-10-24 12:32:03.868  INFO 17544 --- [main] alex.com.ProductspiderApplicationTests   : Started ProductspiderApplicationTests in 5.216 seconds (JVM running for 6.162)
+2019-10-24 12:32:06.344  INFO 17544 --- [SpringContextShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2019-10-24 12:32:39.764  INFO 1524 --- [main] alex.com.ProductspiderApplicationTests   : Starting ProductspiderApplicationTests on Tiffany with PID 1524 (started by Tiffany in E:\xycode\pachongdemo\productspider)
+2019-10-24 12:32:39.766  INFO 1524 --- [main] alex.com.ProductspiderApplicationTests   : No active profile set, falling back to default profiles: default
+2019-10-24 12:32:41.716  INFO 1524 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2019-10-24 12:32:41.969  INFO 1524 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2019-10-24 12:32:42.039  INFO 1524 --- [main] org.hibernate.Version                    : HHH000412: Hibernate Core {5.4.6.Final}
+2019-10-24 12:32:42.177  INFO 1524 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-10-24 12:32:43.088  INFO 1524 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2019-10-24 12:32:43.307  INFO 1524 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-10-24 12:32:43.901  WARN 1524 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-10-24 12:32:44.752  INFO 1524 --- [main] alex.com.ProductspiderApplicationTests   : Started ProductspiderApplicationTests in 5.423 seconds (JVM running for 6.495)
+2019-10-24 12:32:47.865  INFO 1524 --- [SpringContextShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2019-10-24 12:32:58.836  INFO 15056 --- [main] alex.com.ProductspiderApplicationTests   : Starting ProductspiderApplicationTests on Tiffany with PID 15056 (started by Tiffany in E:\xycode\pachongdemo\productspider)
+2019-10-24 12:32:58.838  INFO 15056 --- [main] alex.com.ProductspiderApplicationTests   : No active profile set, falling back to default profiles: default
+2019-10-24 12:33:01.086  INFO 15056 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2019-10-24 12:33:01.388  INFO 15056 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2019-10-24 12:33:01.471  INFO 15056 --- [main] org.hibernate.Version                    : HHH000412: Hibernate Core {5.4.6.Final}
+2019-10-24 12:33:01.678  INFO 15056 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-10-24 12:33:02.577  INFO 15056 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2019-10-24 12:33:02.814  INFO 15056 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-10-24 12:33:03.484  WARN 15056 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-10-24 12:33:04.496  INFO 15056 --- [main] alex.com.ProductspiderApplicationTests   : Started ProductspiderApplicationTests in 6.161 seconds (JVM running for 7.283)
+2019-10-24 12:33:08.706  INFO 15056 --- [SpringContextShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2019-10-24 12:33:22.126  INFO 16340 --- [main] alex.com.ProductspiderApplicationTests   : Starting ProductspiderApplicationTests on Tiffany with PID 16340 (started by Tiffany in E:\xycode\pachongdemo\productspider)
+2019-10-24 12:33:22.128  INFO 16340 --- [main] alex.com.ProductspiderApplicationTests   : No active profile set, falling back to default profiles: default
+2019-10-24 12:33:24.257  INFO 16340 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2019-10-24 12:33:24.509  INFO 16340 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2019-10-24 12:33:24.578  INFO 16340 --- [main] org.hibernate.Version                    : HHH000412: Hibernate Core {5.4.6.Final}
+2019-10-24 12:33:24.733  INFO 16340 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-10-24 12:33:25.594  INFO 16340 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2019-10-24 12:33:25.808  INFO 16340 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-10-24 12:33:26.391  WARN 16340 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-10-24 12:33:27.166  INFO 16340 --- [main] alex.com.ProductspiderApplicationTests   : Started ProductspiderApplicationTests in 5.482 seconds (JVM running for 6.48)
+2019-10-24 12:33:29.758  INFO 16340 --- [SpringContextShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2019-10-24 12:33:43.315  INFO 16464 --- [main] alex.com.ProductspiderApplicationTests   : Starting ProductspiderApplicationTests on Tiffany with PID 16464 (started by Tiffany in E:\xycode\pachongdemo\productspider)
+2019-10-24 12:33:43.316  INFO 16464 --- [main] alex.com.ProductspiderApplicationTests   : No active profile set, falling back to default profiles: default
+2019-10-24 12:33:45.247  INFO 16464 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2019-10-24 12:33:45.474  INFO 16464 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2019-10-24 12:33:45.537  INFO 16464 --- [main] org.hibernate.Version                    : HHH000412: Hibernate Core {5.4.6.Final}
+2019-10-24 12:33:45.671  INFO 16464 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-10-24 12:33:46.541  INFO 16464 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2019-10-24 12:33:46.739  INFO 16464 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-10-24 12:33:47.309  WARN 16464 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-10-24 12:33:48.055  INFO 16464 --- [main] alex.com.ProductspiderApplicationTests   : Started ProductspiderApplicationTests in 5.18 seconds (JVM running for 6.17)
+2019-10-24 12:33:51.706  INFO 16464 --- [SpringContextShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2019-10-24 12:34:15.888  INFO 14332 --- [main] alex.com.ProductspiderApplicationTests   : Starting ProductspiderApplicationTests on Tiffany with PID 14332 (started by Tiffany in E:\xycode\pachongdemo\productspider)
+2019-10-24 12:34:15.890  INFO 14332 --- [main] alex.com.ProductspiderApplicationTests   : No active profile set, falling back to default profiles: default
+2019-10-24 12:34:18.085  INFO 14332 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2019-10-24 12:34:18.393  INFO 14332 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2019-10-24 12:34:18.462  INFO 14332 --- [main] org.hibernate.Version                    : HHH000412: Hibernate Core {5.4.6.Final}
+2019-10-24 12:34:18.625  INFO 14332 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-10-24 12:34:19.513  INFO 14332 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2019-10-24 12:34:19.809  INFO 14332 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-10-24 12:34:20.400  WARN 14332 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-10-24 12:34:21.205  INFO 14332 --- [main] alex.com.ProductspiderApplicationTests   : Started ProductspiderApplicationTests in 5.837 seconds (JVM running for 6.938)
+2019-10-24 12:34:23.973  INFO 14332 --- [SpringContextShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2019-10-24 12:34:43.035  INFO 11536 --- [main] alex.com.ProductspiderApplicationTests   : Starting ProductspiderApplicationTests on Tiffany with PID 11536 (started by Tiffany in E:\xycode\pachongdemo\productspider)
+2019-10-24 12:34:43.037  INFO 11536 --- [main] alex.com.ProductspiderApplicationTests   : No active profile set, falling back to default profiles: default
+2019-10-24 12:34:44.925  INFO 11536 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2019-10-24 12:34:45.179  INFO 11536 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2019-10-24 12:34:45.262  INFO 11536 --- [main] org.hibernate.Version                    : HHH000412: Hibernate Core {5.4.6.Final}
+2019-10-24 12:34:45.410  INFO 11536 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-10-24 12:34:46.274  INFO 11536 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2019-10-24 12:34:46.480  INFO 11536 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-10-24 12:34:47.057  WARN 11536 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-10-24 12:34:47.809  INFO 11536 --- [main] alex.com.ProductspiderApplicationTests   : Started ProductspiderApplicationTests in 5.256 seconds (JVM running for 6.224)
+2019-10-24 12:34:51.874  INFO 11536 --- [SpringContextShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2019-10-24 12:35:04.171  INFO 364 --- [main] alex.com.ProductspiderApplicationTests   : Starting ProductspiderApplicationTests on Tiffany with PID 364 (started by Tiffany in E:\xycode\pachongdemo\productspider)
+2019-10-24 12:35:04.173  INFO 364 --- [main] alex.com.ProductspiderApplicationTests   : No active profile set, falling back to default profiles: default
+2019-10-24 12:35:06.322  INFO 364 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2019-10-24 12:35:06.565  INFO 364 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2019-10-24 12:35:06.637  INFO 364 --- [main] org.hibernate.Version                    : HHH000412: Hibernate Core {5.4.6.Final}
+2019-10-24 12:35:06.793  INFO 364 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-10-24 12:35:07.652  INFO 364 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2019-10-24 12:35:07.839  INFO 364 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-10-24 12:35:08.545  WARN 364 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-10-24 12:35:09.306  INFO 364 --- [main] alex.com.ProductspiderApplicationTests   : Started ProductspiderApplicationTests in 5.635 seconds (JVM running for 6.585)
+2019-10-24 12:35:11.849  INFO 364 --- [SpringContextShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2019-10-24 12:35:22.240  INFO 7872 --- [main] alex.com.ProductspiderApplicationTests   : Starting ProductspiderApplicationTests on Tiffany with PID 7872 (started by Tiffany in E:\xycode\pachongdemo\productspider)
+2019-10-24 12:35:22.242  INFO 7872 --- [main] alex.com.ProductspiderApplicationTests   : No active profile set, falling back to default profiles: default
+2019-10-24 12:35:24.360  INFO 7872 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2019-10-24 12:35:24.622  INFO 7872 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2019-10-24 12:35:24.690  INFO 7872 --- [main] org.hibernate.Version                    : HHH000412: Hibernate Core {5.4.6.Final}
+2019-10-24 12:35:24.842  INFO 7872 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-10-24 12:35:25.703  INFO 7872 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2019-10-24 12:35:25.929  INFO 7872 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-10-24 12:35:26.544  WARN 7872 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-10-24 12:35:27.339  INFO 7872 --- [main] alex.com.ProductspiderApplicationTests   : Started ProductspiderApplicationTests in 5.607 seconds (JVM running for 6.632)
+2019-10-24 12:35:30.109  INFO 7872 --- [SpringContextShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2019-10-24 12:35:43.516  INFO 16476 --- [main] alex.com.ProductspiderApplicationTests   : Starting ProductspiderApplicationTests on Tiffany with PID 16476 (started by Tiffany in E:\xycode\pachongdemo\productspider)
+2019-10-24 12:35:43.518  INFO 16476 --- [main] alex.com.ProductspiderApplicationTests   : No active profile set, falling back to default profiles: default
+2019-10-24 12:35:45.753  INFO 16476 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2019-10-24 12:35:46.023  INFO 16476 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2019-10-24 12:35:46.092  INFO 16476 --- [main] org.hibernate.Version                    : HHH000412: Hibernate Core {5.4.6.Final}
+2019-10-24 12:35:46.244  INFO 16476 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-10-24 12:35:47.103  INFO 16476 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2019-10-24 12:35:47.374  INFO 16476 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-10-24 12:35:48.010  WARN 16476 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-10-24 12:35:48.828  INFO 16476 --- [main] alex.com.ProductspiderApplicationTests   : Started ProductspiderApplicationTests in 5.899 seconds (JVM running for 6.968)
+2019-10-24 12:36:03.922  INFO 16476 --- [main] o.apache.http.impl.execchain.RetryExec   : I/O exception (org.apache.http.conn.ConnectTimeoutException) caught when processing request to {s}->https://cdnprod.mafretailproxy.com:443: Connect to cdnprod.mafretailproxy.com:443 [cdnprod.mafretailproxy.com/104.18.254.234, cdnprod.mafretailproxy.com/104.18.255.234] failed: connect timed out
+2019-10-24 12:36:03.923  INFO 16476 --- [main] o.apache.http.impl.execchain.RetryExec   : Retrying request to {s}->https://cdnprod.mafretailproxy.com:443
+2019-10-24 12:36:16.178  INFO 16476 --- [main] o.apache.http.impl.execchain.RetryExec   : I/O exception (org.apache.http.conn.ConnectTimeoutException) caught when processing request to {s}->https://cdnprod.mafretailproxy.com:443: Connect to cdnprod.mafretailproxy.com:443 [cdnprod.mafretailproxy.com/104.18.254.234, cdnprod.mafretailproxy.com/104.18.255.234] failed: connect timed out
+2019-10-24 12:36:16.178  INFO 16476 --- [main] o.apache.http.impl.execchain.RetryExec   : Retrying request to {s}->https://cdnprod.mafretailproxy.com:443
+2019-10-24 12:36:23.266  INFO 16476 --- [SpringContextShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2019-10-24 12:36:41.609  INFO 6332 --- [main] alex.com.ProductspiderApplicationTests   : Starting ProductspiderApplicationTests on Tiffany with PID 6332 (started by Tiffany in E:\xycode\pachongdemo\productspider)
+2019-10-24 12:36:41.611  INFO 6332 --- [main] alex.com.ProductspiderApplicationTests   : No active profile set, falling back to default profiles: default
+2019-10-24 12:36:43.713  INFO 6332 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2019-10-24 12:36:43.951  INFO 6332 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2019-10-24 12:36:44.013  INFO 6332 --- [main] org.hibernate.Version                    : HHH000412: Hibernate Core {5.4.6.Final}
+2019-10-24 12:36:44.148  INFO 6332 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-10-24 12:36:45.033  INFO 6332 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2019-10-24 12:36:45.244  INFO 6332 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-10-24 12:36:45.797  WARN 6332 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-10-24 12:36:46.611  INFO 6332 --- [main] alex.com.ProductspiderApplicationTests   : Started ProductspiderApplicationTests in 5.443 seconds (JVM running for 6.452)
+2019-10-24 12:36:50.192  INFO 6332 --- [SpringContextShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2019-10-24 12:37:05.087  INFO 12556 --- [main] alex.com.ProductspiderApplicationTests   : Starting ProductspiderApplicationTests on Tiffany with PID 12556 (started by Tiffany in E:\xycode\pachongdemo\productspider)
+2019-10-24 12:37:05.089  INFO 12556 --- [main] alex.com.ProductspiderApplicationTests   : No active profile set, falling back to default profiles: default
+2019-10-24 12:37:07.128  INFO 12556 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2019-10-24 12:37:07.386  INFO 12556 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2019-10-24 12:37:07.449  INFO 12556 --- [main] org.hibernate.Version                    : HHH000412: Hibernate Core {5.4.6.Final}
+2019-10-24 12:37:07.583  INFO 12556 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-10-24 12:37:08.453  INFO 12556 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2019-10-24 12:37:08.660  INFO 12556 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-10-24 12:37:09.245  WARN 12556 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-10-24 12:37:10.012  INFO 12556 --- [main] alex.com.ProductspiderApplicationTests   : Started ProductspiderApplicationTests in 5.399 seconds (JVM running for 6.378)
+2019-10-24 12:37:17.969  INFO 12556 --- [SpringContextShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2019-10-24 12:37:31.727  INFO 5096 --- [main] alex.com.ProductspiderApplicationTests   : Starting ProductspiderApplicationTests on Tiffany with PID 5096 (started by Tiffany in E:\xycode\pachongdemo\productspider)
+2019-10-24 12:37:31.728  INFO 5096 --- [main] alex.com.ProductspiderApplicationTests   : No active profile set, falling back to default profiles: default
+2019-10-24 12:37:33.738  INFO 5096 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2019-10-24 12:37:33.978  INFO 5096 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2019-10-24 12:37:34.040  INFO 5096 --- [main] org.hibernate.Version                    : HHH000412: Hibernate Core {5.4.6.Final}
+2019-10-24 12:37:34.174  INFO 5096 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-10-24 12:37:35.033  INFO 5096 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2019-10-24 12:37:35.239  INFO 5096 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-10-24 12:37:35.825  WARN 5096 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-10-24 12:37:36.584  INFO 5096 --- [main] alex.com.ProductspiderApplicationTests   : Started ProductspiderApplicationTests in 5.276 seconds (JVM running for 6.247)
+2019-10-24 12:37:40.685  INFO 5096 --- [SpringContextShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2019-10-24 12:37:57.928  INFO 4924 --- [main] alex.com.ProductspiderApplicationTests   : Starting ProductspiderApplicationTests on Tiffany with PID 4924 (started by Tiffany in E:\xycode\pachongdemo\productspider)
+2019-10-24 12:37:57.930  INFO 4924 --- [main] alex.com.ProductspiderApplicationTests   : No active profile set, falling back to default profiles: default
+2019-10-24 12:37:59.578  INFO 4924 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2019-10-24 12:37:59.804  INFO 4924 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2019-10-24 12:37:59.867  INFO 4924 --- [main] org.hibernate.Version                    : HHH000412: Hibernate Core {5.4.6.Final}
+2019-10-24 12:38:00.004  INFO 4924 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-10-24 12:38:00.900  INFO 4924 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2019-10-24 12:38:01.106  INFO 4924 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-10-24 12:38:01.691  WARN 4924 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-10-24 12:38:02.543  INFO 4924 --- [main] alex.com.ProductspiderApplicationTests   : Started ProductspiderApplicationTests in 5.249 seconds (JVM running for 6.287)
+2019-10-24 12:38:05.190  INFO 4924 --- [SpringContextShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2019-10-24 12:38:16.855  INFO 1520 --- [main] alex.com.ProductspiderApplicationTests   : Starting ProductspiderApplicationTests on Tiffany with PID 1520 (started by Tiffany in E:\xycode\pachongdemo\productspider)
+2019-10-24 12:38:16.856  INFO 1520 --- [main] alex.com.ProductspiderApplicationTests   : No active profile set, falling back to default profiles: default
+2019-10-24 12:38:18.897  INFO 1520 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2019-10-24 12:38:19.119  INFO 1520 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2019-10-24 12:38:19.181  INFO 1520 --- [main] org.hibernate.Version                    : HHH000412: Hibernate Core {5.4.6.Final}
+2019-10-24 12:38:19.311  INFO 1520 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-10-24 12:38:20.170  INFO 1520 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2019-10-24 12:38:20.371  INFO 1520 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-10-24 12:38:20.958  WARN 1520 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-10-24 12:38:21.715  INFO 1520 --- [main] alex.com.ProductspiderApplicationTests   : Started ProductspiderApplicationTests in 5.27 seconds (JVM running for 6.273)
+2019-10-24 12:38:28.638  INFO 1520 --- [SpringContextShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2019-10-24 12:38:51.731  INFO 20880 --- [main] alex.com.ProductspiderApplicationTests   : Starting ProductspiderApplicationTests on Tiffany with PID 20880 (started by Tiffany in E:\xycode\pachongdemo\productspider)
+2019-10-24 12:38:51.733  INFO 20880 --- [main] alex.com.ProductspiderApplicationTests   : No active profile set, falling back to default profiles: default
+2019-10-24 12:38:53.713  INFO 20880 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2019-10-24 12:38:53.909  INFO 20880 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2019-10-24 12:38:54.063  INFO 20880 --- [main] org.hibernate.Version                    : HHH000412: Hibernate Core {5.4.6.Final}
+2019-10-24 12:38:54.206  INFO 20880 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-10-24 12:38:55.057  INFO 20880 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2019-10-24 12:38:55.277  INFO 20880 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-10-24 12:38:55.890  WARN 20880 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-10-24 12:38:56.744  INFO 20880 --- [main] alex.com.ProductspiderApplicationTests   : Started ProductspiderApplicationTests in 5.46 seconds (JVM running for 6.462)
+2019-10-24 12:39:05.544  INFO 20880 --- [SpringContextShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
